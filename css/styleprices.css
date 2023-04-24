@@ -2004,6 +2004,13 @@ footer .copyright span:last-child::after {
 	object-fit: cover;
 }
 
+.video-wrapper {
+	position: relative;
+	width: 300px;
+	height: 300px;
+	object-fit: cover;
+}
+
 .container .card .content .contentBx h3 {
 	color: #fff;
 	text-transform: uppercase;
