@@ -1337,7 +1337,7 @@ header .logo a {
 	text-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
 }
 .intro-content h5 {
-	color: #cc005f;
+	color: #FDA537;
 	font-family: "poppins-bold", sans-serif;
 	font-size: 2.3rem;
 	line-height: 1.565;
@@ -1749,8 +1749,8 @@ header .logo a {
  *
  * ------------------------------------------------------------------- 
  */
-#stats {
-	background: #990047;
+ #stats {
+	background: #FDA537;
 	padding-top: 7.2rem;
 	padding-bottom: 6rem;
 	text-align: center;

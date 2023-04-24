@@ -1338,15 +1338,15 @@
 	 text-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
  }
  .intro-content h5 {
-	 color: #cc005f;
-	 font-family: "poppins-bold", sans-serif;
-	 font-size: 2.3rem;
-	 line-height: 1.565;
-	 margin-bottom: 0;
-	 text-transform: uppercase;
-	 letter-spacing: .3rem;
-	 text-shadow: 0 0 6px rgba(0, 0, 0, 0.2);
- }
+	color: #FDA537;
+	font-family: "poppins-bold", sans-serif;
+	font-size: 2.3rem;
+	line-height: 1.565;
+	margin-bottom: 0;
+	text-transform: uppercase;
+	letter-spacing: .3rem;
+	text-shadow: 0 0 6px rgba(0, 0, 0, 0.2);
+}
  .intro-content .intro-position {
 	 font-family: "lora-regular", serif;
 	 font-size: 1.7rem;
@@ -1749,12 +1749,12 @@
   *
   * ------------------------------------------------------------------- 
   */
- #stats {
-	 background: #990047;
-	 padding-top: 7.2rem;
-	 padding-bottom: 6rem;
-	 text-align: center;
- }
+#stats {
+	background: #FDA537;
+	padding-top: 7.2rem;
+	padding-bottom: 6rem;
+	text-align: center;
+}
  #stats .row {
 	 max-width: 1440px;
  }
@@ -1919,30 +1919,30 @@
 	 display: none;
  }
  #go-top a {
-	 text-decoration: none;
-	 border: 0 none;
-	 display: block;
-	 height: 6.6rem;
-	 width: 6rem;
-	 line-height: 6.6rem;
-	 text-align: center;
-	 background: #cc005f;
-	 color: #FFFFFF;
-	 text-align: center;
-	 text-transform: uppercase;
-	 -moz-transition: all 0.3s ease-in-out;
-	 -o-transition: all 0.3s ease-in-out;
-	 -webkit-transition: all 0.3s ease-in-out;
-	 -ms-transition: all 0.3s ease-in-out;
-	 transition: all 0.3s ease-in-out;
- }
- #go-top a i {
-	 font-size: 1.6rem;
-	 line-height: inherit;
- }
- #go-top a:hover {
-	 background: #000000;
- }
+	text-decoration: none;
+	border: 0 none;
+	display: block;
+	height: 6.6rem;
+	width: 6rem;
+	line-height: 6.6rem;
+	text-align: center;
+	background: #FDA537;
+	color: #FFFFFF;
+	text-align: center;
+	text-transform: uppercase;
+	-moz-transition: all 0.3s ease-in-out;
+	-o-transition: all 0.3s ease-in-out;
+	-webkit-transition: all 0.3s ease-in-out;
+	-ms-transition: all 0.3s ease-in-out;
+	transition: all 0.3s ease-in-out;
+}
+#go-top a i {
+	font-size: 1.6rem;
+	line-height: inherit;
+}
+#go-top a:hover {
+	background: #000000;
+}
  
  /*# sourceMappingURL=main.css.map */
  
